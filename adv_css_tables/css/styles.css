@@ -100,9 +100,9 @@ main_img_resize {
 footer {
     background-color: #BF5E49;
     text-align: center;
-    padding: 40 px 0;
+    padding: 40px 0;
     color: #BED390;
-    font-style: bold;
+    font-weight: bold;
     }
 
     .button {
